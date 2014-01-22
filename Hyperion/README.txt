@@ -27,7 +27,7 @@ There are 3 different installation executables you will need to load to get the 
 	any of the commands from the CustomCommands interface that are not provided by the ASCOM
 	standards.
 
-The file Hyperion_Firmware_2_6.bin is the latest firmware that works with this software.
+The file Hyperion_Firmware_2_7.bin is the latest firmware that works with this software.
 
 If you have any problems with installing or running this software please contact
 Starizona at (520) 292-5010. You can also join the ASCOM-Talk yahoo group but we only monitor the
