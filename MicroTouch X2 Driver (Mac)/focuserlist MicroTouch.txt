@@ -1,0 +1,4 @@
+//See hardwarelist.txt for details on this file format.
+//Version|Manufacturer|Model|Comment|MapsTo|PlugInDllName
+1|Starizona|MicroTouch|MicroTouch Focuser| |libMicroTouch
+
