@@ -1,6 +1,7 @@
 ﻿// MicroTouch X2 Driver (Windows) Installation Instructions
 
-Note: I'm showing the file paths for my TheSkyX installation modify the driver letter and folder as needed if you installed it somewhere else.
+NOTES: This driver requires version 4.4 or above firmware in the MicroTouch unit or it will not work properly.
+       I'm showing the file paths for my TheSkyX installation modify the driver letter and folder as needed if you installed it somewhere else.
 
 1. Install the MicroTouch USB driver provided by Starizona.  I've also include a copy here in the file MicroTouch_Install_3_8_NoASCOM.zip.  There are a lot of instructions in there but you really should only need to run the MicroTouchUSB2Installer.exe file possibly as Administrator.
 

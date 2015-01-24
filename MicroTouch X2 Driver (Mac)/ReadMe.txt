@@ -1,4 +1,6 @@
-// MicroTouch X2 Driver Installation Instructions
+﻿// MicroTouch X2 Driver Installation Instructions
+
+NOTES: This driver requires version 4.4 or above firmware in the MicroTouch unit or it will not work properly.
 
 1. Install the SiLabs Virtual COM Port (VCP) USB driver using the file SiLabsUSBDriverDisk.dmg.
 
