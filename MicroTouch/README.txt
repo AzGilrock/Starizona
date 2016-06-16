@@ -2,12 +2,13 @@
 
 There are 3 different installation executables you will need to load to get the MicroTouch up and running.
 
-1. MicroTouch USB Driver
-	Inside the MicroTouchUSBDriver.zip file you run the file MicroTouchUSB2Installer.exe.
+1. MicroTouch USB Driver  (Note: The same driver works for the Hyperion and the MicroTouch.)
+	Unzip the USBXpress Driver.zip file. Run the file StarizonaUSBDriverInstaller_x64.exe if you
+	are on a 64-bit operating system or StarizonaUSBDriverInstaller_x32.exe for 32-bit.
 	This will install the USB device driver to allow the MicroTouch to communicate with the PC.
 
 2. MicroTouch ASCOM Driver
-	Install MicroTouchDriverSetup_1_3.exe to install the ASCOM driver which provides all the interfaces
+	Install MicroTouchDriverSetup_1_4.exe to install the ASCOM driver which provides all the interfaces
 	for programs to communicate with the MicroTouch.  If you are only using 3rd party programs to
 	control the MicroTouch you should be able to stop right here but we recommend you also install
 	the control GUI program described next.  This install the MicroTouch Server which provides the

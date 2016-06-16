@@ -2,8 +2,9 @@
 
 There are 3 different installation executables you will need to load to get the Hyperion up and running.
 
-1. Hyperion USB Driver
-	Inside the HyperionUSBDriverSetup.zip file you run the file HyperionUSBDriverInstaller.exe.
+1. Hyperion USB Driver  (Note: The same driver works for the Hyperion and the MicroTouch.)
+	Unzip the USBXpress Driver.zip file. Run the file StarizonaUSBDriverInstaller_x64.exe if you
+	are on a 64-bit operating system or StarizonaUSBDriverInstaller_x32.exe for 32-bit.
 	This will install the USB device driver to allow the Hyperion to communicate with the PC.
 
 2. Hyperion ASCOM Driver
