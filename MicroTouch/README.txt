@@ -8,7 +8,7 @@ There are 3 different installation executables you will need to load to get the 
 	This will install the USB device driver to allow the MicroTouch to communicate with the PC.
 
 2. MicroTouch ASCOM Driver
-	Install MicroTouchDriverSetup_1_4.exe to install the ASCOM driver which provides all the interfaces
+	Install MicroTouchDriverSetup_1_5.exe to install the ASCOM driver which provides all the interfaces
 	for programs to communicate with the MicroTouch.  If you are only using 3rd party programs to
 	control the MicroTouch you should be able to stop right here but we recommend you also install
 	the control GUI program described next.  This install the MicroTouch Server which provides the
@@ -28,13 +28,13 @@ There are 3 different installation executables you will need to load to get the 
 	only using one focuser.
 
 3. MicroTouch Control Software
-	Install MicroTouchControllerSetup_1_2.exe to install a program that can control the MicroTouch
+	Install MicroTouchControllerSetup_1_3.exe to install a program that can control the MicroTouch
 	from the PC.  This program executes all commands through the MicroTouch Server that was installed
 	by step 2 above.  You can run this program side by side with any other ASCOM program that
 	talks to the interfaces in the MicroTouch.  This program is useful when you need to execute
 	any of the commands over the interface that are not provided by the ASCOM standards.
 
-The file MicroTouch_4_4.bin is the latest firmware for the handcontroller and MicroTouch_Motor_2_5.bin
+The file MicroTouch_4_5.bin is the latest firmware for the handcontroller and MicroTouch_Motor_2_5.bin
 is the firmware file if you are running a wireless version that has a motor box.
 
 If you have any problems with installing or running this software please contact
